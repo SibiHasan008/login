@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(C:\Users\HasanCP\Desktop\image1.jpg);
+	background-repeat: no-repeat;
+	background-size: 1366px 768px;
+}
+.header{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: #6883bc;
+	height: 75px;
+	width:100%;
+	text-align: center;
+	font-style: bold;
+}
+#a{
+	font-family:'Times New Roman', Times, serif;
+	float:top;
+	border-radius: 1cm;
+	padding: 10px;
+	text-align: center;
+	font-size: 30px;
+	color: black;
+	background-color: #ffcc99d5;
+}
+.div{
+	border-color: black;
+	border-radius: 5mm;
+	width: 30%;
+	height: 32vh;
+	padding: 10px;
+	margin-left: 35%;
+	margin-top: 10%;
+	font-size: 15px;
+	background-color: #65eee29f;
+}
+.div .form{
+	font-size: 30px;
+}
+table{
+	border-spacing: 1mm;
+	font-size: 20px;
+}
+#email{
+	height: 50px;
+	font-size: medium;
+}
+#password{
+	height: 50px;
+	font-size: medium;
+}
+#loginbtn{
+	float: right;
+	height: 40px;
+	width: 100px;
+	font-size: 30px;
+	border-radius: 1cm;
+	cursor: pointer;
+}
+#loginbtn:hover{
+	background-color: rgba(47, 13, 243, 0.705);
+	color: white;
+}

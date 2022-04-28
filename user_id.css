@@ -1,0 +1,48 @@
+.header{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: large;
+	font-style: italic;
+	background-color: #6883bc;
+	height: 85px;
+	width:100%;
+	text-align: center;
+}
+.div_1{
+	border-radius: 0.5mm;
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+	font-size: 15px;
+	background-color: #79a7d393;
+}
+#user{
+	font-family:sans-serif ;
+	text-align: center;
+	font-style:oblique;
+}
+.table {
+	margin-left: 20px;
+	color: rgba(240, 48, 48, 0.74);
+	font-style: italic;
+	background-color: rgb(247, 247, 162);
+	border-color: rgba(0, 0, 0, 0.349);
+	font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+	font-size: 20px;
+	border-spacing:2mm; 
+  }
+#logoutbtn{
+	height: 40px;
+	width: 100px;
+	font-size: 25px;
+	float: right;
+	color: lightgoldenrodyellow;
+	background-color: rgba(78, 235, 214, 0.795);
+	border-radius: 2mm;
+}
+#logoutbtn:hover{
+	color: black;
+	background-color: red;
+	cursor: pointer;
+
+}
